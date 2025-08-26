@@ -1,6 +1,6 @@
 # Hi there, I'm Pyae Sone Win! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyae-sone-win-software-developer/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awin.pyaesonewin@gmail.com)
 
 ## 🚀 About Me
@@ -37,7 +37,7 @@ Java Spring Boot application with MySQL database
 ## 📫 Let's Connect!
 
 - 📧 Email: [awin.pyaesonewin@gmail.com](mailto:awin.pyaesonewin@gmail.com)
-- 💼 LinkedIn: [Pyae Sone Win](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Pyae Sone Win](https://www.linkedin.com/in/pyae-sone-win-software-developer/)
 - 🌐 Portfolio: [Coming Soon!]
 
 ---
