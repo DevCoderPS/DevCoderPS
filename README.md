@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5)](https://www.linkedin.com/in/pyae-sone-win-software-developer/)
 [![Gmail](https://img.shields.io/badge/📧-Gmail-D14836?logo=gmail&logoColor=white)](mailto:awin.pyaesonewin@gmail.com)
 
-I'm a passionate Full Stack Developer with expertise in building scalable web applications and digital experiences. I enjoy turning complex problems into simple, beautiful and intuitive solutions.
+I'm a passionate Full Stack Developer with **6+ years** of experience building web applications. I enjoy tackling complex problems and turning ideas into reality through code. My expertise spans across frontend and backend development, with a strong focus on creating scalable and efficient solutions.
 
 ## 🚀 Technologies & Tools
 
@@ -51,8 +51,8 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio:** [devcoderps-portfolio.netlify.app](https://devcoderps-portfolio.netlify.app/)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/pyae-sone-win-software-developer/)
+- 📧 **Email:** [your.email@gmail.com](mailto:awin.pyaesonewin@gmail.com)
 
 ## 👨‍💻 Currently Working On
 
