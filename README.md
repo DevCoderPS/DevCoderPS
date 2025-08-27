@@ -51,8 +51,8 @@ I'm a passionate Full Stack Developer with **6+ years** of experience building w
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio:** [devcoderps-portfolio.netlify.app](https://devcoderps-portfolio.netlify.app/)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/pyae-sone-win-software-developer/)
-- 📧 **Email:** [your.email@gmail.com](mailto:awin.pyaesonewin@gmail.com)
+- 💼 **LinkedIn:** [pyae-sone-win-software-developer](https://www.linkedin.com/in/pyae-sone-win-software-developer/)
+- 📧 **Email:** [awin.pyaesonewin@gmail.com](mailto:awin.pyaesonewin@gmail.com)
 
 ## 👨‍💻 Currently Working On
 
