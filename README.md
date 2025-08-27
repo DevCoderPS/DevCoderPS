@@ -35,39 +35,17 @@ I'm a passionate Full Stack Developer with **6+ years** of experience building w
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 📂 Featured Repositories
-
-<div align="center">
-  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=devcoderps&repo=your-repo-1&theme=radical)](https://github.com/devcoderps/your-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=devcoderps&repo=your-repo-2&theme=radical)](https://github.com/devcoderps/your-repo-2)
-
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=devcoderps&repo=your-repo-3&theme=radical)](https://github.com/devcoderps/your-repo-3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=devcoderps&repo=your-repo-4&theme=radical)](https://github.com/devcoderps/your-repo-4)
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/devcoderps?tab=repositories">
-    <img src="https://img.shields.io/badge/View-All_Repositories-2EA44F?style=for-the-badge" alt="View All Repositories">
-  </a>
-</p>
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcoderps&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcoderps&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoderps&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devcoderps&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcoderps&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devcoderps&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devcoderps&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📫 Let's Connect
